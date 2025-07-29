@@ -1,1 +1,1 @@
-# Landing-Page
+# Landing-Page i will be creating a landing page for my odin project exercise and then push it onto github. i will need to take each section on its own and h
