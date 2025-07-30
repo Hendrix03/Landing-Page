@@ -1,0 +1,128 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.Hero-section{
+    background-color: #1f2937;
+    Width:100%;
+    color: white;
+    display:flex;
+    justify-content: center;
+    padding-bottom: 100px;
+
+}
+
+.header {
+    display:flex;
+    justify-content: space-between;
+
+}
+.Links {
+    display:flex;
+    gap: 16px;
+    font-size:18px;
+}
+
+
+.Wrapper {
+    display:flex;
+    width: 100%;
+    
+    
+    
+}
+
+
+h1{font-size: 48px;
+    font-size: 900 ;
+
+
+
+}
+
+.para-1{width:50%;
+    
+}
+p{
+    font-size: 18px;
+    color:#e5e7eb;
+}
+
+
+.image{
+    width:200px;
+    height:200px
+}
+
+.section3{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+
+h2{ font-size:32px;
+    color: #1f2937;
+    font-weight:900 ;
+
+}
+
+.grid{
+    display:flex;
+    gap: 16px;
+    text-align: center;
+    flex-wrap: wrap;
+    
+    
+
+}
+
+.img-grid{
+    width:250px;
+    height:250px;
+}
+
+.Testimonials{
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+
+}
+
+.container{
+width:60%;
+display: flex;
+flex-direction: column;
+
+
+}
+
+.test-para{ font-size: 36px;
+    font-style: light italic;
+    color:#1f2937
+    
+
+}
+
+.Name{ color:#1f2937}
+.name{display: flex;
+align-items: last baseline;}
+
+.Cta{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    padding: 100px 0px 100px 0px;
+    
+
+}
+
+.blue-box{
+    background-color:#3882f6 ;
+    display: flex;
+    align-items: center;
+    gap:100px
+}
+
